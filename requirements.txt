@@ -9,4 +9,5 @@ pdfplumber
 pydantic
 google-generativeai
 matplotlib
-
+sentence-transformers
+faiss-cpu
